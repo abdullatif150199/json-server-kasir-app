@@ -183,6 +183,24 @@
       }
     }
   ],
-  "keranjangs": [],
+  "keranjangs": [
+   {
+      "jumlah": 5,
+      "totalHarga": 70000,
+      "product": {
+        "id": 7,
+        "kode": "K-07",
+        "nama": "Mie Ayam Bakso",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "mie-ayam-bakso.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 1
+    },
+  ],
   "pesanans": []
 }
